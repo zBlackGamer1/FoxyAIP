@@ -1,0 +1,21 @@
+name: FoxyAPI
+version: 2.0.0
+author: zBlackGamer
+main: pt.com.FoxyAPI.Main
+depend: [Vault, LuckPerms]
+commands:
+  foxy:
+    aliases: [foxyapi] 
+    description: Comando de ajuda do plugin.
+  lixeiro:
+    aliases: [foxylixeiro] 
+    description: Comando do plugin FoxyLixeiro.
+  buff:
+    aliases: [foxybuff] 
+    description: Comando do plugin FoxyBuff.
+  report:
+    aliases: [reportar] 
+    description: Comando do plugin FoxyReports.
+  reports:
+    aliases: [reportes] 
+    description: Comando do plugin FoxyReports.
